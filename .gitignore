@@ -4,6 +4,9 @@
 # Log file
 *.log
 
+# txt files containing sensitive data
+sensitive.txt
+
 # BlueJ files
 *.ctxt
 
